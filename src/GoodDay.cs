@@ -9,4 +9,9 @@ class GoodDay
     {
     	return n1 / n2;
     }
+
+    public static sum(int n1, int n2) 
+    {
+        return n1 + n2;
+    }
 }
